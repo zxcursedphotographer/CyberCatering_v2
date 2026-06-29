@@ -599,6 +599,7 @@ productNames.forEach(function(name) {
 
 
 /*
+задача 1 
 const laptop = {
     "brand": 550,
     "processor": 400,
@@ -609,6 +610,9 @@ console.log("Названия всех характеристик: ", laptopTech
 */
 
 /*
+задача 2  
+тут тупил на функции money
+если точнее то на   total += money;
 let salaries = {
     "Иван": 150000,
     "Анна": 230000,
