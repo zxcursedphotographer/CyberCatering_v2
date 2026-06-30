@@ -647,24 +647,3 @@ salariesNames.forEach(function(name){
 */
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

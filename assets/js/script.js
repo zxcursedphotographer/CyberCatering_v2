@@ -289,6 +289,10 @@ allCards.forEach((card) => {
 
       updateTotalDisplay();
       saveData();
+
+
+       confetti();
+
     });
   }
 });
